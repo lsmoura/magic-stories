@@ -10,6 +10,8 @@ planes: [ 'Innistrad' ]
 
 <i>Jace Beleren has come to Innistrad searching for the vampire lord Sorin Markov, who he hopes can help him unravel a puzzle. But Innistrad is unfamiliar territory, and the only person Jace knows who might be able to guide him is likely to be less than helpful—particularly given the way [their last encounter](/catching) ended.</i>
 
+![Jace, Unraveler of Secrets](http://media.wizards.com/2016/aksdjciawolkcc0_soi/en_lYCOLf1gCh.png)
+
 ---
 
 Horses' hoofbeats drummed a leisurely rhythm. The jagged mountains of the province called Stensia loomed ahead of them, but Jace's goal wasn't far beyond the border, and he had read enough of his guide's thoughts to know that they were close.
@@ -58,8 +60,7 @@ Jace's moonlit gallop ate up the road, faster than was safe. He saw the lights o
 
 There were at least three of them bounding after him, hideous amalgamations of human and wolf. They weren't like the krasis experiments of the Simic Combine, whose parts always seemed to show that they had come from separate species. Human-like hands with sharp claws, muscular arms covered in fur, lupine faces that nonetheless held a spark of intelligence—these were almost fully human, and almost fully wolf, all at once.
 
-![](http://media.wizards.com/2016/images/daily/s70ry4r7_XHpoPNLBC7.jpg)
-Art by Mathias Kollros
+![Art by Mathias Kollros](http://media.wizards.com/2016/images/daily/s70ry4r7_XHpoPNLBC7.jpg)
 
 He'd heard of werewolves, but had hoped never to see them.
 
@@ -73,8 +74,7 @@ He could work with that.
 
 He summoned another illusion, this one with substance and form. A hulking bear made of shining blue light took form behind him, a being of pure magic rather than a trick of the light—but still with no scent.
 
-![](http://media.wizards.com/2016/images/daily/cardart_M12_Phantasmal-Bear.jpg)
-Phantasmal Bear | Art by Ryan Yee
+![Phantasmal Bear | Art by Ryan Yee](http://media.wizards.com/2016/images/daily/cardart_M12_Phantasmal-Bear.jpg)
 
 The werewolves ran toward it, heedless, thinking it was another insubstantial phantom, as it rose up on its hind legs in a threat display. It lunged and tackled one of them, and Jace glanced back to see the two combatants fall in a furious tangle of fur and light.
 
@@ -122,8 +122,7 @@ Jace lowered his hood and followed this new guide, surprised to find that the sm
 
 And there, sitting easily on a chair—more a throne—was Liliana Vess. She shut a large, leather-bound tome she'd been reading and handed it to one of her undead servants.
 
-![](http://media.wizards.com/2016/images/daily/s70ry4r7_NAd3BlhN7Z.jpg)
-Art by Mathias Kollros
+![Art by Mathias Kollros](http://media.wizards.com/2016/images/daily/s70ry4r7_NAd3BlhN7Z.jpg)
 
 "Hello, Jace," she said. She looked him up and down in obvious appraisal. "Nice coat."
 
@@ -239,8 +238,7 @@ Liliana's face betrayed genuine surprise. Jace let himself take a little pleasur
 
 "I know he's a vampire, the so-called Lord of Innistrad," said Jace. "I know he's ancient and more than a little untrustworthy, and I know right now he's either in trouble or causing trouble. Either way, I need to find him."
 
-![](http://media.wizards.com/2016/images/daily/cardart_AVR_Barter_In-Blood.jpg)
-Barter in Blood | Art by Eric Deschamps
+![Barter in Blood | Art by Eric Deschamps](http://media.wizards.com/2016/images/daily/cardart_AVR_Barter_In-Blood.jpg)
 
 "Why?" said Liliana.
 
@@ -344,8 +342,7 @@ The zombie mob stopped, holding him in place.
 
 She stood over him, the zombies parting so she could glare down at him.
 
-![](http://media.wizards.com/2016/images/daily/cardart_M15_Endless-Obedience.jpg)
-Endless Obedience | Art by Karl Kopinski
+![Endless Obedience | Art by Karl Kopinski](http://media.wizards.com/2016/images/daily/cardart_M15_Endless-Obedience.jpg)
 
 "This world is dangerous," she said. "For you especially. And you can't beat an ancient Planeswalker whose mind you can't—or won't—touch."
 

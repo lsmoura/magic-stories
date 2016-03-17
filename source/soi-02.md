@@ -4,6 +4,7 @@ date: 2016-03-09
 slug: 'a-gaze-of-blank-and-pitiless'
 source: 'http://magic.wizards.com/en/articles/archive/magic-story/gaze-blank-and-pitiless-2016-03-09'
 author: 'Ken Troop'
+planes: [ 'Innistrad' ]
 ---
 
 <i>Innistrad has entered a new age of prosperity and peace. Avacyn, a powerful angel who is the living embodiment of hope and protection for humans everywhere, is free from her imprisonment and has helped the humans beat back the evil horrors that lurk within Innistrad. The vampires are in retreat, and the werewolf curse has been alleviated by the Cursemute, a magical edict from Avacyn that gave afflicted lycanthropes the choice either to become wolfir, wolven servants of Avacyn, or, in rarer cases, to be fully cured.</i>
@@ -14,8 +15,7 @@ author: 'Ken Troop'
 
 The prayers of ten thousand souls washed over Avacyn like a misty rain, a pleading susurrus of hope and fear. Avacyn watch over my children, Avacyn make my crop strong, Avacyn the pain make it stop, Avacyn grant him a clean death, Avacyn...
 
-![](http://media.wizards.com/2016/images/daily/cardart_AVR_Avacyn-Angel-of-Hope.jpg)
-Avacyn, Angel of Hope | Art by Jason Chan
+![Avacyn, Angel of Hope | Art by Jason Chan](http://media.wizards.com/2016/images/daily/cardart_AVR_Avacyn-Angel-of-Hope.jpg)
 
 She hovered in the thin cold air, air so thin her wings would have been insufficient to keep her aloft without the aid of power. It was one of her favorite retreats, a desolate valley in the highest mountain passes in southern Stensia. The cold was absolute at this height. Thick frost covered every surface, permitting no life to abide. Avacyn did not feel the cold. She appreciated the solitude, the purity of wide space with nothing for company but the crackling ice, the whistling wind, and the whispers of prayers.
 
@@ -25,8 +25,7 @@ Help me! A panicked prayer broke through the normal murmurs. A woman's voice, a 
 
 From the beginning of Avacyn's existence had been the word PROTECT. Even now, thinking of it triggered the cascade of images that had accompanied her first moments of existence. A flash of a world draped in autumn and blood, and the numerous predators poised to ravage it. Vampire and werewolf. Demon and zombie. Geist and devil. Each one seared into Avacyn's mind, into her very identity, as a threat to be fought and scoured. And the images of the mortals in all their shapes and sizes, their humanity defined by their frailty and their devotion. PROTECT. And over time, Avacyn's understanding of the word grew, became more nuanced. PROTECT THEM. This concept was Avacyn's essence.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_1cV68y6XOr.jpg)
-Archangel Avacyn | Art by James Ryman
+![Archangel Avacyn | Art by James Ryman](http://media.wizards.com/2016/images/daily/c4rd4r7_1cV68y6XOr.jpg)
 
 With each passing year, the purpose of her existence had unfolded in crystalline beauty. She was not meant to fight every monster, to stop every evil. Such work would have been impossible. Instead she led and inspired, bolstering the faith of countless humans, that faith in turn bolstering the wards and charms humanity used as protection from the predations of evil. There were occasions when Avacyn would fight, when some intractable or powerful evil would demand her personal attention. But there were always too many fights, too many prayers, for Avacyn to respond to every one.
 
@@ -36,8 +35,7 @@ Avacyn sped through the lower mountain valleys of Stensia, tracing an unerring p
 
 It was a new era for the humans. It was a new era for the world. And Avacyn would be there, continuing to protect the humans and protect the world, as she always had. Avacyn did not like smiling—she had never understood the point of it—but she suspected this is what humans felt when they smiled. A deep and abiding satisfaction. It felt...correct.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_bNQoBYIcDk.jpg)
-Art by Andreas Rocha
+![Art by Andreas Rocha](http://media.wizards.com/2016/images/daily/c4rd4r7_bNQoBYIcDk.jpg)
 
 Avacyn noted the wan light from the sun, soon to fall below the forested horizon. Night would rise shortly. As she alit upon a sparse meadow outside of a dark forest, she saw a woman lying on the grassy slope outside the first ring of trees, sobbing and crying out a name. "Maeli! Maeli!" The woman stood and walked toward the forest as Avacyn landed.
 
@@ -47,8 +45,7 @@ Avacyn noted the wan light from the sun, soon to fall below the forested horizon
 
 Such a matter would have been trivial if the child had been praying to Avacyn. But as Avacyn turned her focus to the hundreds of prayers currently whispering in her head, none of them were from a child lost in a forest. Still, there were other ways to find the child.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_PuyzNJVWpY.jpg)
-Art by Andreas Rocha
+![Art by Andreas Rocha](http://media.wizards.com/2016/images/daily/c4rd4r7_PuyzNJVWpY.jpg)
 
 Avacyn flew over the dark forest until she approached its center. She channeled her power up through her spear, and its metal blade glowed bright. Brighter, brighter, until the light eclipsed the setting sun, and Avacyn channeled even more power, lighting up the whole sky above the forest. Avacyn could hear birds caw and animals skitter and even larger things thump below the forest canopy, all to get away from the bright light. Avacyn projected power into her voice.
 
@@ -72,8 +69,7 @@ The seeds of men are rotten. Avacyn did not know where the thought came from. It
 
 She looked back to the mother, that angry face already softening and seeking to reassure her wailing child. These mortals travel from anger to guilt and back again, and what is ever accomplished? Avacyn looked at the child, its wailing unabated. How short these mortals live. Today this was the small form of a child. Tomorrow it would be a man, dirty, uncouth, prone to anger and cruelty. The day after its flesh would be wriggling worms, worms writhing in the dust...
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_shgJojj4Rs.jpg)
-Art by Steven Belledin
+![Art by Steven Belledin](http://media.wizards.com/2016/images/daily/c4rd4r7_shgJojj4Rs.jpg)
 
 Avacyn stumbled away, her balance off, her mind fuzzy. She took flight, weaving back and forth into the sky with an unusual lack of grace, leaving both humans below. She sought to hear prayers, but coating every word was the buzzing. She could not make out the prayers over the constant noise. Instead she came back to the same words again and again, plunged into her brain like a spear.
 
@@ -93,8 +89,7 @@ Macher had no doubt Avacyn existed, of course. He had seen her, had seen her ang
 
 Those thoughts he could not escape.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_AhigHOQxTp.jpg)
-Art by Christine Choi
+![Art by Christine Choi](http://media.wizards.com/2016/images/daily/c4rd4r7_AhigHOQxTp.jpg)
 
 He had been a true believer for most of his life, still just a toddler when his family had abandoned him at the door of the local parish, a fate of many a young child in this corner of Gavony. He had been fed by the church and clothed by the church and protected by the church, introduced to the doctrine of Avacyn before he could even read.
 
@@ -138,8 +133,7 @@ She continued, ignoring him. "The more interesting question is..." she paused, a
 
 Even through his fear and closed eyes, he could sense a luminescence drawing close. A chill shook his spine and he screamed. The scream subsided, and he heard a whispered "Soon," as a light, feathery touch brushed his face. A flapping of wings, and the luminescence vanished. It was a long time before he opened his eyes. He lay there huddled through the night, cloaked in terrifying certainty about the nature of his god.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_Dt8mafr3Ih.jpg)
-Art by Vincent Proce
+![Art by Vincent Proce](http://media.wizards.com/2016/images/daily/c4rd4r7_Dt8mafr3Ih.jpg)
 
 ---
 
@@ -151,8 +145,7 @@ His business was booming—never had his smithing been in more demand. He was at
 
 The Cursemute. Everything had changed with the Cursemute, a blessing wrought by Avacyn's magic. Some werewolves had been transformed into wolven servants of Avacyn, the wolfir. But Liont had been cured entirely, and he said his blessings to Avacyn every day. He was back with his family, back in his home. Able to travel to the town, and look people in the eye, and know no fear. The absence of fear was wonderful, the absence of dread and worry and weight, no more constant gnawing clutching at his insides. No more staring up at the moon, wondering if night would bring the darkness, the true darkness. All dissipated into the light, thanks to Avacyn's benevolent power. He had a life again. A life with his family.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_H4BkTzKYL9.jpg)
-Art by Howard Lyon
+![Art by Howard Lyon](http://media.wizards.com/2016/images/daily/c4rd4r7_H4BkTzKYL9.jpg)
 
 He dressed, picking up scattered clothes from the floor. Some of these need mending. I'll give them to Hilde tonight. He went back to Hilde to wake her up. She was groggy, barely stirring, and her speech was still faint and wispy from sleep.
 
@@ -206,8 +199,7 @@ No no no no no no...still on his knees, he rocked back and forth, clutching his 
 
 Who had done this? He knew who had done this. Feverish images rose in his mind. The snarling, the screams, the claws raised high in the moonlight...he lifted his head and howled his agony into the cold winter sun, the sun that followed the hunter's moon.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_A6LT8AmdaY.jpg)
-Art by Daarken
+![Art by Daarken](http://media.wizards.com/2016/images/daily/c4rd4r7_A6LT8AmdaY.jpg)
 
 The Cursemute. What happened to the Cursemute? What he had done should not have been possible. He was free of the curse. Free! He snarled a prayer to the air, Avacyn! Why have you forsaken me! Avacyn!
 
@@ -217,8 +209,7 @@ Liont looked up, staring at the figure hovering above him, a figure with wings a
 
 His voice croaked with pain, the words barely able to form, "Please...please." The angel, perhaps it was Avacyn herself, did not respond, did not even seem to hear him speaking. She pointed her spear at him, and the tip grew bright, brighter, brighter than the sun overhead, and a lancing energy struck him in the chest, burning away clothes and skin.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_T78MpUS8nZ.jpg)
-Art by Greg Staples
+![Art by Greg Staples](http://media.wizards.com/2016/images/daily/c4rd4r7_T78MpUS8nZ.jpg)
 
 He screamed in agony even as he welcomed the pain. This is what I deserve. But still, maybe the angel could save his family. His vision dimmed. He had to...
 
@@ -234,8 +225,7 @@ Mercy, Liont thought, and then he died.
 
 A storm is coming, Sigarda thought. Lightning flashed in the dark gray sky, but no thunder ever came. It was unusual to see a storm in the middle of the cold winter, the season dominated by the hunter's moon. The air had hung heavy for days, the gray clouds unmoving, and now there was lightning without thunder, a storm without rain. Sigarda looked out over large swaths of the forest and was uneasy.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_P0rlvsPu4q.jpg)
-Art by Chris Rahn
+![Art by Chris Rahn](http://media.wizards.com/2016/images/daily/c4rd4r7_P0rlvsPu4q.jpg)
 
 She hovered in her personal solar, the bare stone walls and four thick buttresses in sharp contrast to the open vistas of dark green forests sprinkled with patches of white snow. Sigarda could see for miles in every direction and often spent long stretches here when seeking quiet contemplation. The solar was at the top of a long-abandoned tower in a Kessig forest, a tower built centuries ago when humans had been more ambitious.
 
@@ -245,8 +235,7 @@ A lightning flash lit the dark sky, and another, and in between the flashes of l
 
 Slight Bruna, dressed in blue and white light armor with a flowing silk cloak trimmed in red lace. She wielded her staff, and its tip was already glowing with power, as if to strike down an enemy. Tall Gisela, cloaked in the red and white of her Goldnight flight, her twin blades already out of their sheaths. They are prepared for battle, Sigarda thought. She thought then of their other sister, the one who had died a thousand years ago, and she shivered.
 
-![](http://media.wizards.com/2016/images/daily/cardart_AVR_Bruna-Light-of-Alabaster.jpg)
-Bruna, Light of Alabaster | Art by Winona Nelson
+![Bruna, Light of Alabaster | Art by Winona Nelson](http://media.wizards.com/2016/images/daily/cardart_AVR_Bruna-Light-of-Alabaster.jpg)
 
 "Hello, my sister," Bruna said, an odd lilt in her voice.
 
@@ -268,8 +257,7 @@ When the two angels had landed in her solar, they had stood very close together,
 
 The two angels continued to move to her sides, each one on the edge of her peripheral vision. Sigarda could not believe her sisters would attack her, but the only rational explanation for their tactics was in preparation for an attack. Sigarda had never fought either of her two sisters, but she was confident she could handle Bruna as long as she could get to her scythe. Bruna was not especially skilled in direct combat. Her strengths lay in other areas. Gisela, on the other hand...Gisela would be a problem.
 
-![](http://media.wizards.com/2016/images/daily/cardart_AVR_Gisela-Blade-of-Goldnight.jpg)
-Gisela, Blade of Goldnight | Art by Jason Chan
+![Gisela, Blade of Goldnight | Art by Jason Chan](http://media.wizards.com/2016/images/daily/cardart_AVR_Gisela-Blade-of-Goldnight.jpg)
 
 More lightning crackled outside, and there was a loud burst of thunder. As the thunder subsided, Avacyn landed in the solar.
 
@@ -323,8 +311,7 @@ At the mention of their names, her two sisters spoke.
 
 "Everlasting light," said a voice behind her, though she could not tell which angel said it. Or perhaps both said it at the same time.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_MkPi3K9BtS.jpg)
-Art by Zezhou Chen
+![Art by Zezhou Chen](http://media.wizards.com/2016/images/daily/c4rd4r7_MkPi3K9BtS.jpg)
 
 Avacyn held aloft her spear and pointed it at the stone roof. A surge of power leapt from the spear, and the roof...vanished. Obliterated by the force of Avacyn's power. Only a fine dust fell to the ground below, covering the angels in a sooty ash.
 
@@ -350,8 +337,7 @@ She could not describe it, could not explain it. In a moment all her love and ca
 
 But after Avacyn left them on that dark meadow, so had the anger. And it had never come back, and ultimately all Kelse cared about was that she had her child back, her wonderful joy. Now I just need to find him again.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_9y5HIzDmTS.jpg)
-Art by Cliff Childs
+![Art by Cliff Childs](http://media.wizards.com/2016/images/daily/c4rd4r7_9y5HIzDmTS.jpg)
 
 On poles at the outskirts of the village, torch flames flickered and sputtered in the cold winter wind, shadows lengthening as the dusk deepened. She bit her lip, wondering where she should look next, when she heard a loud cry behind her. She turned in a panic, but it was only Maeli, running toward her with a large grin on his face, shrieking happily, "Mommy, Mommy!"
 
@@ -363,8 +349,7 @@ The torch lights suddenly all died, their flames extinguished. It was not the wi
 
 Angels flew above them.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_ofc6hlDKZb.jpg)
-Art by Tyler Jacobson
+![Art by Tyler Jacobson](http://media.wizards.com/2016/images/daily/c4rd4r7_ofc6hlDKZb.jpg)
 
 Against the orange and purple of the darkening sky, the winged angels hovered high over the village. All of them wielded weapons, swords and spears and staves, and many of those weapons glowed with golden or silver light. The stars are descending from the heavens, Kelse thought. She looked down at Maeli, and he stared upward in open-mouthed wonder.
 
@@ -384,8 +369,7 @@ Avacyn, Kelse thought. Perhaps the angels had been possessed by evil spirits, or
 
 "You do not need to pray your lies to me, creature. I'm right here in front of you." Kelse heard the voice just above her. She looked up, and saw an angel dressed in black, her wings steeped in blood red, her eyes dark and pitiless, nothing like the loving eyes she had seen just a few months back. The voice was familiar and strange together, with some type of accent marring her words.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_JKW38cUCxR.jpg)
-Avacyn, the Purifier | Art by James Ryman
+![Avacyn, the Purifier | Art by James Ryman](http://media.wizards.com/2016/images/daily/c4rd4r7_JKW38cUCxR.jpg)
 
 It was Avacyn. Avacyn was here. Avacyn was destroying her village.
 
@@ -415,5 +399,4 @@ For so long I have listened to the whispers of liars, and the world has suffered
 
 She looked at the moon, and the moon whispered such beautiful words. All will burn. All will bleed. Avacyn repeated the words to herself, a soothing song filling her head with joy. All will burn. All will bleed. She laughed and smiled as her angels continued the great work in the burning village.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_ExRPnMojKR.jpg)
-Art by Johannes Voss
+![Art by Johannes Voss](http://media.wizards.com/2016/images/daily/c4rd4r7_ExRPnMojKR.jpg)

@@ -4,6 +4,8 @@ date: 2016-03-02
 slug: 'under-the-silver-moon'
 source: 'http://magic.wizards.com/en/articles/archive/magic-story/under-silver-moon-2016-03-02'
 author: 'Kimberly J. Kreines'
+planeswalkers: [ 'Arlinn Kord' ]
+planes: [ 'Innistrad' ]
 ---
 
 <i>Halana and Alena are trackers, hunters, and protectors who live in the depths of the dark woods that border the edges of Kessig province—the woods known as the Ulvenwald. Innistrad's ancient forest is their domain, and they have long stood as a bulwark between the horrors within and the innocence without. But of late, things in the woods have begun to shift...</i>
@@ -14,8 +16,7 @@ author: 'Kimberly J. Kreines'
 
 "It's like a beetle is crawling up the back of your neck." Warin shuddered as he spoke. "Right up from the base of it and straight into your hair."
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_sGipe4TBjF.jpg)
-Art by Nils Hamm
+![Art by Nils Hamm](http://media.wizards.com/2016/images/daily/c4rd4r7_sGipe4TBjF.jpg)
 
 It was odd, Hal thought, that he should speak of that feeling now, today. She had never heard mention of such a thing before, never known such a sensation was possible, not until this very morning. She had woken with it, something ticking on the back of her neck, crawling up her spine. It had made her feel unsettled, which in itself was extremely peculiar. So the fact that the feeling, which had crept after her out of their bed at camp through the woods and into town, should be brought up again so soon after she first felt it was enough of a strangeness to dredge up another wave of it. She suppressed a shudder of her own.
 
@@ -57,8 +58,7 @@ Hal looked to Alena. Communication between them required no words. They both kne
 
 "There can be no doubt, the wards failed, and our cow was possessed." Farmer Warin seemed to have gathered courage to speak from the rallying of so many townsfolk to his cause. "We are the victims of Lady Evelin's neglect." He held tight to his own ward and beseeched both the townsfolk and the Elders. "We cannot afford to go one more night without a proper ward."
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_nJSF7KlCDN.jpg)
-Art by Kev Walker
+![Art by Kev Walker](http://media.wizards.com/2016/images/daily/c4rd4r7_nJSF7KlCDN.jpg)
 
 There was a rabble of agreement.
 
@@ -90,8 +90,7 @@ Alena nodded in confirmation.
 
 It was obvious who the victim and accused were supposed to be: the Palters from Gavony. They were currently the only guests at the inn, the only guests the inn had seen in the last three months. Hal and Alena had found the cathar and his wife themselves no more than a week ago, wandering the deep paths of the Ulvenwald up near Bower Passage. Of course Hal and Alena had helped them, of course they had seen the two out of the twisted wood and to Gatstaf, fighting off no fewer than three wolves, one ghoul, and a possessed oak on the way.
 
-![](http://media.wizards.com/2016/images/daily/9c4rd4r7_nrKKL8ohyw.jpg)
-Art by Jaime Jones
+![Art by Jaime Jones](http://media.wizards.com/2016/images/daily/9c4rd4r7_nrKKL8ohyw.jpg)
 
 Hal smiled at the memory of Alena's swift dispatching of the tree. The highly skilled tracker had improved her grappling skills so significantly over the past year that Hal wouldn't be surprised if she could take down a giant skaab without any sort of outside assistance.
 
@@ -133,8 +132,7 @@ As one, they changed course, running for the Shorans' inn.
 
 The tolling of the town bell continued, far past the point of being any useful sort of alarm.
 
-![](http://media.wizards.com/2016/images/daily/cardart_ISD_Village-Bell-Ringer.jpg)
-Village Bell-Ringer | Art by David Palumbo
+![Village Bell-Ringer | Art by David Palumbo](http://media.wizards.com/2016/images/daily/cardart_ISD_Village-Bell-Ringer.jpg)
 
 From the sound of it, Hal thought it likely that Elsa Shoran herself had come into possession of the rope, having most likely wrestled it from the hands of the bell-ringer. If that was the case, then all the better; the distraction Elsa was most likely providing to the Elders, who would be left, in turn, to wrestle the rope from her hands, would afford Hal and Alena more time to search the Palters' chambers.
 
@@ -176,8 +174,7 @@ They timed the opening of the window with the banging open of the outer door to 
 
 They hadn't much time. The sun was already kissing the horizon when they arrived back at their camp deep in the Ulvenwald. Each quickly but deliberately strapped on her silver. Of course they always carried one small blade of it—it would be foolish to be completely unprepared—but until recent events there had seemed no need to carry more. Now they found both the need and means to carry nearly all of it with them: silver-tipped arrows, swords, spears, and daggers. The metal gleamed with power.
 
-![](http://media.wizards.com/2016/images/daily/cardart_ISD_Silver-Inlaid-Dagger.jpg)
-Silver-Inlaid Dagger | Art by Austin Hsu
+![Silver-Inlaid Dagger | Art by Austin Hsu](http://media.wizards.com/2016/images/daily/cardart_ISD_Silver-Inlaid-Dagger.jpg)
 
 As soon as they were equipped, they left their camp again. Moving as one, they navigated the maze of brambles Hal had planted around their home as a safety measure and pressed out into the darkening woods.
 
@@ -187,8 +184,7 @@ His tracks wound around the twisted trees, seeming to say either that he was los
 
 As though in response to Hal's shifting feelings toward the cathar, his tracks shifted too. It became clear when his transformation had taken place, for one moment Hal and Alena were following the boot prints of a man and the next they were tracking the paw prints of a beast. They moved along the lycanthrope's path until abruptly and unexpectedly they came to a crossroads. Hal and Alena eyed the split trail at their feet, visible thanks to the light of the silver moon.
 
-![](http://media.wizards.com/2016/images/daily/cardart_ISD_Paraselene.jpg)
-Paraselene | Art by Ryan Yee
+![Paraselene | Art by Ryan Yee](http://media.wizards.com/2016/images/daily/cardart_ISD_Paraselene.jpg)
 
 From the point where they stood, Cathar Palter had gone two different directions, surely at two different times. He must have gone one way first and then at some point, near or far from this point of intersection, it was hard to say, doubled back and gone the other.
 
@@ -222,8 +218,7 @@ As though in confirmation of Hal's conclusion, a howl sounded from the Ulvenwald
 
 Entering the wood through the Warins' farm, it was easy to pick up the large, lupine tracks again. They followed the trail past the point where it diverged, this time moving west, deeper into the forest. Hal realized where they were headed: the henge of old Avabruck, the lost capital. It was a place of geists and werewolf scavengers. Perhaps they would face more foes than just the one they were pursuing. As she ran, Hal touched the hilt of her favorite dagger, ready to defend her woods.
 
-![](http://media.wizards.com/2016/images/daily/cardart_ISD_Forest-262.jpg)
-Forest | Art by James Paick
+![Forest | Art by James Paick](http://media.wizards.com/2016/images/daily/cardart_ISD_Forest-262.jpg)
 
 Suddenly, Alena held up her hand and ground to a halt. Hal nearly trampled her, but managed to stop just before colliding, her eyes on the sight that had given Alena pause. There before them on the forest floor was the body of the bell-ringer. Orwell was ghostly white, his skin withered for lack of blood in his body—a body that was for the most part intact. His limbs were splayed out as though they had been carefully arranged. And all around him the underbrush and grass had been tromped down as though something heavy had been dragged over it.
 
@@ -275,8 +270,7 @@ Alena stared at the ground as they ran, taking in the sight of the boot prints.
 
 "What if the lycanthrope is—" Mrs. Palter's name was caught on Hal's lips because in the moment she was about to speak it, they had crested a hill, from the top of which they were able to see a small clearing. And in that clearing there was what looked to be a makeshift altar made of twisted stone.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_GJoTe8KJtl.jpg)
-Art by Andreas Rocha
+![Art by Andreas Rocha](http://media.wizards.com/2016/images/daily/c4rd4r7_GJoTe8KJtl.jpg)
 
 The altar was uneven and poorly constructed, and atop it lay the good Cathar Palter.
 
@@ -306,8 +300,7 @@ The cathar did not deny it.
 
 Hal doubted that very much. The demon's name, Ormendahl, she had heard it before. And from the stories she knew of it, it was not a demon that a single mausoleum guard, no matter how good-hearted and well-intentioned, could have stopped.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_TkYCOwPqrw.jpg)
-Art by Min Yum
+![Art by Min Yum](http://media.wizards.com/2016/images/daily/c4rd4r7_TkYCOwPqrw.jpg)
 
 For the third time that night, her heart went out to Mr. Palter. But her sympathy for him was not enough for her to consider letting Mrs. Palter free, for the woman was lost; what was left writhing under Hal and Alena's grip was not Mr. Palter's wife. That would be an impossible thing for him to understand. Hal nodded to Alena, who readied to plunge her blade. But just then, Mr. Palter half-fell, half-launched himself off the altar, his body crashing into Hal and Alena.
 
@@ -333,8 +326,7 @@ As the demonic curse drained from the woman's lifeless limbs, her body deflated,
 
 Before they could act, before they could even communicate their intentions to each other, there was a snarl from the trees to their left. And then one from their right. One behind, two in front. Then all around them they saw glowing yellow eyes, reflecting and tarnishing the light of the silver moon. They were surrounded. How many were there? A dozen, perhaps two.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_h9XsKVPIrA.jpg)
-Art by Scott Murphy
+![Art by Scott Murphy](http://media.wizards.com/2016/images/daily/c4rd4r7_h9XsKVPIrA.jpg)
 
 Hal felt Alena tense. This was not Alena's usual firm, grounding stance; the girl was rigid, strained. Hal raised her bloodied dagger, locking eyes with the biggest of the lycanthropes, the one standing before them. If they were to die here tonight, it would not be without a fight.
 
@@ -396,5 +388,4 @@ Alena looked to her, daring in her eyes, poised to run, but Hal was unsure of wh
 
 Arlinn Kord darted between the tangled trees. The foolish humans. How could they be so blind? She hoped she would not be forced to kill them one day. They were strong and wild. Characteristics she valued. In another life she might have befriended them. But this was not that life; in this life, Arlinn could not have friends.
 
-![](http://media.wizards.com/2016/images/daily/c4rd4r7_Domal7RecD.jpg)
-Art by Winona Nelson
+![Art by Winona Nelson](http://media.wizards.com/2016/images/daily/c4rd4r7_Domal7RecD.jpg)
